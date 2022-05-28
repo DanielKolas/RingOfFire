@@ -18,4 +18,6 @@ Project is created with:
 * Playing the game: Drawing a random card from the deck
 * Going back to the menu screen
 
-
+## Features
+The app was published at Heroku portal: 
+https://dk-ring-of-fire.herokuapp.com/
