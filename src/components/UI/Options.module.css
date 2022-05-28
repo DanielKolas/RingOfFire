@@ -1,0 +1,10 @@
+.close {
+  color: #dbd8e3;
+  position: absolute;
+  top: 5vh;
+  right: 5vw;
+  height: 2rem;
+  filter: invert(95%) sepia(7%) saturate(714%) hue-rotate(197deg)
+    brightness(96%) contrast(85%);
+  z-index: 200;
+}
